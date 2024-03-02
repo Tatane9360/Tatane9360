@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Je m'appelle Ethan je suis un étudiant en développement web, passionné par le code  !</h4>
+<h2 align="left">Je m'appelle Ethan je suis un étudiant en développement web, passionné par le code  !</h2>
 
 ###
 
