@@ -1,7 +1,6 @@
 <h1 align="center">Salut je suis Ethan</h1>
 <h3 align="center">Etudiant passionné par le monde du développement web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatane9360" alt="tatane9360" /></a> </p>
 
 - 🌱Je suis actuellement entrain d'apprendre **Symfony,React,Next**
 
