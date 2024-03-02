@@ -6,7 +6,6 @@
 
 ###
 
-<h2 align="left">A propos</h2>
 
 ###
 
@@ -14,6 +13,7 @@
   <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNrNXY0OHFkZnkxMzM4Zzg4dXk2ZDBvZ2xpeDI5eTNwYXg1ODlrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
+<h2 align="left">A propos</h2>
 ###
 
 <p align="left">🌱Je suis actuellement entrain d'apprendre Symfony, React, Next.<br><br>📚 Actuellement à la recherche d'une opportunité en alternance, je suis motivé à mettre en œuvre mes compétences au service de votre entreprise.<br><br>🎯 Toujours en quête d'apprentissage, je souhaite acquérir et développer de nouvelles compétences !<br><br>👨‍💻 Voici mon portfolio : https://ethan-sulejman.fr</p>
