@@ -15,7 +15,7 @@
 <h2 align="left">A propos</h2>
 
 
-<p align="left">🌱Je suis actuellement entrain d'apprendre Symfony, React, Next.<br><br>👀 Actuellement à la recherche d'une opportunité en alternance, je suis motivé à mettre en œuvre mes compétences au service de votre entreprise.<br><br>🎯 Toujours en quête d'apprentissage, je souhaite acquérir et développer de nouvelles compétences !<br><br>👨‍💻 Voici mon portfolio : https://ethan-sulejman.fr</p>
+<p align="left">🌱Je suis actuellement entrain d'apprendre Symfony, React, Next.<br><br>👀 Actuellement à la recherche d'une opportunité en alternance pour la période de septembre, je suis motivé à mettre en œuvre mes compétences au service de votre entreprise.<br><br>🎯 Toujours en quête d'apprentissage, je souhaite acquérir et développer de nouvelles compétences !<br><br>👨‍💻 Voici mon portfolio : https://ethan-sulejman.fr</p>
 
 ###
 
