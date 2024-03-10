@@ -4,9 +4,6 @@
 
 <h2 align="left">Je m'appelle Ethan je suis un étudiant en développement web, passionné par le code !</h2>
 
-
-###
-
 <div align="center">
   <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNrNXY0OHFkZnkxMzM4Zzg4dXk2ZDBvZ2xpeDI5eTNwYXg1ODlrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
